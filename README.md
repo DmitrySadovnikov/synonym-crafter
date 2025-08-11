@@ -2,6 +2,11 @@
 
 A beautiful, one-page web application for finding perfect word alternatives instantly. Search for any word and discover its synonyms with a gorgeous, colorful interface featuring smooth animations and real-time results.
 
+<img width="1691" height="1055" alt="Screenshot 2025-08-11 at 7 16 58 pm" src="https://github.com/user-attachments/assets/4bb4c511-d199-46d5-95c8-9953c5b49a3c" />
+
+
+**Live site:** [synonym.1crafter.site](https://synonym.1crafter.site)
+
 ## ✨ Features
 
 - **Instant Search**: No need to press enter - synonyms appear as you type
